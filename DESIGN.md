@@ -31,9 +31,9 @@ Inspired by [evepupil/evepupil](https://github.com/evepupil/evepupil)'s Swiss-Ba
 
 ## Key Components
 
-- **Split Poster Hero (`assets/hero-*.svg`)**: Left field carries the 9-row pixel display wordmark `FURINA-HE`, role & language stack, and `$` command bar with a calm 1.4s blinking block cursor; right field sets a framed `28x28` graphic pixel portrait of `Furina-he`'s chibi avatar (with a gentle 5.2s eye blink and `prefers-reduced-motion` guard) over a Hydro Blue `+` pixel weave; bottom strip renders 4 pixel metric counters (`04`, `12`, `20+`, `MCP`).
+- **Split Poster Hero (`assets/hero-*.svg`)**: Left field carries the 9-row pixel display wordmark `FURINA-HE`, role & language stack, and `$` command bar with a calm 1.4s blinking block cursor; right field sets a framed `28x28` graphic pixel portrait of `Furina-he`'s chibi avatar (with a gentle 5.2s eye blink and `prefers-reduced-motion` guard) over a Hydro Blue `+` pixel weave; bottom strip renders 4 pixel metric counters (`04`, `13`, `20+`, `MCP`).
 - **Sharp-Cornered Action Buttons (`assets/btn-*.svg`)**: `0px` radius primary and bordered links for `cloudlink.blessc.com`, `openpet.myfurina.top`, `CloudLink v0.6.0`, and `@Furina-he`.
-- **Flush 2x2 Bauhaus Pixel Project Cards (`assets/card-*.svg`)**: Four clickable `49%`-width SVG poster cards (`CloudLink`, `OpenPet`, `Virtual`, `CarView`), each topped with a distinct orthogonal pixel weave band and a bespoke `16x16` pixel emblem.
+- **Flush 2x2 Bauhaus Pixel Project Cards (`assets/card-*.svg`)**: Four clickable `49%`-width SVG poster cards (`CloudLink`, `OpenPet`, `GitSkins`, `Virtual`), each topped with a distinct orthogonal pixel weave band and a bespoke `16x16` pixel emblem.
 - **Daily Contribution Rhythm (`.github/workflows/snake.yml`)**: Auto-generated Light/Dark contribution snake framed under a matching `(activity)` section header.
 
 ## Regenerating Assets
